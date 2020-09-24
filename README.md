@@ -13,3 +13,4 @@ For this competition, I had to automate one part of the data processing pipeline
 ### RESOURCES 
 
 - [Starter Notebook](https://drive.google.com/drive/folders/1MJOzTC1rmrkRRlthTyv8vLk5Lb76hRpC) by [@KarimAmer](https://zindi.africa/users/KarimAmer/competitions) from [Zindi](https://zindi.africa/competitions/cgiar-wheat-growth-stage-challenge/discussions/2903)
+- [Transfer learning for computer vision toturial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html) from official PyTorch docs 
