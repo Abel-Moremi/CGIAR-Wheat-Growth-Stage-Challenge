@@ -10,7 +10,9 @@ The [competition](https://zindi.africa/competitions/cgiar-wheat-growth-stage-cha
 
 For this competition, I had to automate one part of the data processing pipeline: estimating the growth stage of a wheat crop based on an image sent in by a farmer. The images are automatically cropped to show a section of the field. My model must take in an image and output a prediction for the growth stage of the wheat shown, on a scale from 1 (crop just showing) to 7 (mature crop). My solution has to operate on the input image ONLY - no additional data may be used.
 
-### RESOURCES 
+### RESOURCES
+Reference points I used to build this model;
 
+- [FastAi Starter](https://colab.research.google.com/drive/1hjecqhFZVv21tY8qoO3PiJtY7acjFPEU?usp=sharing) Notebook by [@Johnowhitaker](https://zindi.africa/users/Johnowhitaker) from [Zindi](https://zindi.africa/competitions/cgiar-wheat-growth-stage-challenge/discussions/2903)
 - [Starter Notebook](https://drive.google.com/drive/folders/1MJOzTC1rmrkRRlthTyv8vLk5Lb76hRpC) by [@KarimAmer](https://zindi.africa/users/KarimAmer/competitions) from [Zindi](https://zindi.africa/competitions/cgiar-wheat-growth-stage-challenge/discussions/2903)
 - [Transfer learning for computer vision toturial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html) from official PyTorch docs 
